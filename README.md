@@ -21,8 +21,8 @@ scipy <br>
 Introduction:
 -------------
 
-You can quickly visualize the gcode file thanks to free online services such as: <br>
-For the stl: https://openjscad.org <br>
+This small tool allows you to convert an image into gcode.<br>
+For an optimal conversion use a black writing on a sheet of paper, and the photo must have a good brightness and without borders. <br>
 
 
 
