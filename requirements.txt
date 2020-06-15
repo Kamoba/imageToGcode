@@ -1,0 +1,5 @@
+opencv-python
+rastercarve
+imutils
+numpy
+scipy
